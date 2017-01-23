@@ -1,0 +1,5 @@
+# MSVC configuration, VS2015
+using msvc : 14.0 ;
+
+# Python configuration
+using python : 3.5 : c:/python3 : d:/python3/include : d:/python3/libs ;
